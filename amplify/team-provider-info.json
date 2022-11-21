@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-deathopediaapp-dev-154907-authRole",
+      "UnauthRoleArn": "arn:aws:iam::590963320954:role/amplify-deathopediaapp-dev-154907-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::590963320954:role/amplify-deathopediaapp-dev-154907-authRole",
+      "Region": "me-south-1",
+      "DeploymentBucketName": "amplify-deathopediaapp-dev-154907-deployment",
+      "UnauthRoleName": "amplify-deathopediaapp-dev-154907-unauthRole",
+      "StackName": "amplify-deathopediaapp-dev-154907",
+      "StackId": "arn:aws:cloudformation:me-south-1:590963320954:stack/amplify-deathopediaapp-dev-154907/f2e17260-6810-11ed-b2da-0623c5c62b72",
+      "AmplifyAppId": "d1v3w080o1sw1y"
+    },
+    "categories": {
+      "api": {
+        "deathopediaapp": {}
+      }
+    }
+  }
+}
